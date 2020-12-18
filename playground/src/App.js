@@ -1,8 +1,7 @@
 import React from 'react';
-import { HelloWorld } from 'ui-kit';
+import { HelloWorld } from './component-lib';
 
 const App = ()  => {
-
     return (
         <HelloWorld />
     );

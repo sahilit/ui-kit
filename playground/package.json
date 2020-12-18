@@ -9,8 +9,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.1",
-    "web-vitals": "^0.2.4",
-    "ui-kit": "git+https://de0bf084b1de196dd46cf2ac6a693ddd63ac01b3:x-oauth-basic@github.com/sahilit/ui-kit.git"
+    "web-vitals": "^0.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
